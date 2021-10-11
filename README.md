@@ -42,7 +42,10 @@ Guatemalan
 Cuban
 
 ![el-meson-cuban-cuisine](https://user-images.githubusercontent.com/91104059/136860949-3afca697-fe4a-4ad0-bd65-75a2f51eacbe.jpg)
+
 Chinese
+
+![chinese-take-out-472927590-57d31fff3df78c5833464e7b](https://user-images.githubusercontent.com/91104059/136861293-224dd67d-9b83-4461-a4e9-c9ce4673a546.jpg)
 
 American
 
