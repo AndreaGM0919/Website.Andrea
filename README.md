@@ -49,4 +49,6 @@ Chinese
 
 American
 
+![assorted-american-food-assorted-american-food-hamburger-french-fries-bacon-fried-chicken-172985487](https://user-images.githubusercontent.com/91104059/136861421-6f77f07b-dc59-428b-9a84-daf6111e94fb.jpg)
+
 My favorite type of food either has to be Cuban or Guatemalan food.
