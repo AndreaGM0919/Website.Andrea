@@ -12,11 +12,17 @@ I love to dance and listen to music
 Things I love to do:
 
 I love to hang out with my friends,
-I love to cook and backe,
+
+I love to cook and bake,
+
 I love going to the beach and the pool,
+
 I love animals,
+
 I love traveling,
+
 I love going to amusement parks,
+
 I love going paddle boarding and kayaking.
 
 
