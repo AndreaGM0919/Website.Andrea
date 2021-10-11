@@ -10,7 +10,11 @@ I am a pisces.
 I have one dog that is a golden doodle and his name is Benji
 ![Goldenpup](https://user-images.githubusercontent.com/91104059/136859748-e4bb0097-6689-4b14-902d-3ff378cb4ab4.jpg)
 
-I love to dance and listen to music
+I love to dance and listen to music.
+
+![360_F_434178532_h87enyRHxTLtpKR0E5FTNTHt8n6LilfG](https://user-images.githubusercontent.com/91104059/136861148-0513f33c-407f-4dab-b960-70ec467af037.jpg)
+
+
 
 Things I love to do:
 
