@@ -32,7 +32,9 @@ I love going paddle boarding and kayaking.
 Rating types of cuisines:
 
 Guatemalan 
+
 ![0b683404d740168ea532180cecbd198e](https://user-images.githubusercontent.com/91104059/136860717-b45ac1f8-cc4e-43cf-8d24-83baacf85fc3.jpg)
+
 Cuban
 
 Chinese
