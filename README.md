@@ -2,7 +2,10 @@
 
 I will talk a little about myself
 
-I am a pisces  
+I was born in Miami, FLorida.
+![MG_6_1_Miami](https://user-images.githubusercontent.com/91104059/136860195-b4f2e079-824b-48ac-87a1-c7bfe903b8e0.jpg)
+
+I am a pisces.
 
 I have one dog that is a golden doodle and his name is Benji
 ![Goldenpup](https://user-images.githubusercontent.com/91104059/136859748-e4bb0097-6689-4b14-902d-3ff378cb4ab4.jpg)
