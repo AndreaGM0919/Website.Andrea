@@ -1,12 +1,14 @@
 # Andrea's Webpage
-! text in orange
+```diff
 
 I will talk a little about myself
 
 I was born in Miami, FLorida.
 ![MG_6_1_Miami](https://user-images.githubusercontent.com/91104059/136860195-b4f2e079-824b-48ac-87a1-c7bfe903b8e0.jpg)
 
+
 I am a pisces.
+
 ![pisces-1590963265-1592524973-1593091340-1593697595-907997-1603824894](https://user-images.githubusercontent.com/91104059/136860516-2c4f1ce0-470f-4a68-a3d4-9f00c0b7d662.jpg)
 I have one dog that is a golden doodle and his name is Benji
 ![Goldenpup](https://user-images.githubusercontent.com/91104059/136859748-e4bb0097-6689-4b14-902d-3ff378cb4ab4.jpg)
@@ -53,3 +55,4 @@ American
 ![assorted-american-food-assorted-american-food-hamburger-french-fries-bacon-fried-chicken-172985487](https://user-images.githubusercontent.com/91104059/136861421-6f77f07b-dc59-428b-9a84-daf6111e94fb.jpg)
 
 My favorite type of food either has to be Cuban or Guatemalan food.
+```
