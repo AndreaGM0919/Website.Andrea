@@ -37,6 +37,7 @@ Guatemalan
 
 Cuban
 
+![el-meson-cuban-cuisine](https://user-images.githubusercontent.com/91104059/136860949-3afca697-fe4a-4ad0-bd65-75a2f51eacbe.jpg)
 Chinese
 
 American
