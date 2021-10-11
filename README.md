@@ -2,7 +2,7 @@
 
 I will talk a little about myself
 
-I was born on February 25, 2007
+I am a pisces  
 
 I have one dog that is a golden doodle and his name is Benji
 
